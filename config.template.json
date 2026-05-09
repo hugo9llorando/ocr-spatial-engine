@@ -1,0 +1,18 @@
+{
+  "temp_dir": "",
+  "paddleocr_path": "",
+  "venv_python": "",
+  "lang": "es",
+  "timeout_seconds": 120,
+  "line_tolerance_ratio": 0.025,
+  "column_tolerance_ratio": 0.015,
+  "min_column_gap_ratio": 0.03,
+  "export_formats": [],
+  "watch_mode": false,
+  "watch_interval": 5,
+  "processed_files_db": "",
+  "debounce_seconds": 2,
+  "watch_extensions": [".jpg", ".jpeg", ".png", ".webp"],
+  "min_texts_for_columns": 3,
+  "gemini_prompt": "Describe esta imagen en detalle. ¿Qué ves? Identifica objetos, personas, texto notable, escena y contexto general. Responde en español."
+}
